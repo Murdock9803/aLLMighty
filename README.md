@@ -1,16 +1,10 @@
-# React + Vite
+## aLLMighty (website)
+This repository hosts the website for aLLMighty, a small portfolio that showcases projects I built while learning and experimenting with AI and large language models. Many of these projects are built while coding along with tutorials and documentation. The site highlights each project (demos, links to repos, short write-ups), including the aLLMighty AI Summary Plugin.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### The projects under aLLMighty
+- [AI Summary Plugin (Chrome extension)](https://github.com/Murdock9803/aLLMighty-summary-plugin)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### What the site does
+- Presents an overview of the aLLMighty initiative and goals.
+- Displays each project with a short description, tech stack, demo link, and GitHub repository link.
+- Contact / About page with links to socials and how to contribute.
